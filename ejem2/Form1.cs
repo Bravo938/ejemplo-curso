@@ -34,7 +34,8 @@ namespace ejem2
         }
 
         private void Form1_Load(object sender, EventArgs e)
-        {
+        { 
+            //Solo queiro comentar esto 
             //de esta manera cargue al combo box 
             cboColorFavorito.Items.Add("Verder");
             cboColorFavorito.Items.Add("Azul");
